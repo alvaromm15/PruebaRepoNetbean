@@ -22,6 +22,7 @@ public class GestionUsuario extends Application {
 
     
    public static void main(String[] args) {
+       System.out.println("cachalote");
        launch(args);
     }
     
